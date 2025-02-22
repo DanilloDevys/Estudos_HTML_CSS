@@ -2,9 +2,13 @@
     background-color: #4C4C4C;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #A4DB74;
+    border-bottom: 10px solid #000;
 }
 
 .section .main-title{
     margin-bottom: 60px;
+}
+
+.section.-bgBlack{
+    background-color: #A4DB74;
 }
